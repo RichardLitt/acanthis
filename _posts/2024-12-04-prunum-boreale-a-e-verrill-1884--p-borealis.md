@@ -13,10 +13,10 @@ author: "Richard Littauer"
 
 _Prunum borealis_ (A. E. Verrill, 1884) is the correct name.
 
-This is to be considered a valid act according to the ICZN and is not disclaimed.
-
 Links:
 - [Wikipedia](https://en.wikipedia.org/wiki/Prunum_boreale)
 - [WoRMS](https://www.marinespecies.org/aphia.php?p=taxdetails&id=160011)
 
-Please cite this publication as: Littauer, R. (2024). *Prunum boreale (A. E. Verrill, 1884) is changed to P. borealis (A. E. Verrill, 1884)*. Codex Mutabilis.
+## References
+
+- Verrill A. E. (1884). Second catalogue of mollusca recently added to the fauna of the New England Coast and the adjacent parts of the Atlantic, consisting mostly of deep sea species, with notes on others previously recorded. Transactions of the Connecticut Academy of Arts and Sciences, 6(1): 139-294, pl. 28-32, available online at http://biodiversitylibrary.org/page/7477234
