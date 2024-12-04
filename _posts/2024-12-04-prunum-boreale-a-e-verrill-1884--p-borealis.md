@@ -14,4 +14,8 @@ _Prunum borealis_ (A. E. Verrill, 1884) is the correct name.
 
 This is to be considered a valid act according to the ICZN and is not disclaimed.
 
+Links:
+- [Wikipedia](https://en.wikipedia.org/wiki/Prunum_boreale)
+- [WoRMS](https://www.marinespecies.org/aphia.php?p=taxdetails&id=160011)
+
 Please cite this publication as: Littauer, R. (2024). *Prunum boreale (A. E. Verrill, 1884) is changed to P. borealis (A. E. Verrill, 1884)*. Codex Mutabilis.
