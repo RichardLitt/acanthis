@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*Codex Mutabilis* is a journal for publishing short notes on mandator changes to species names according to the [International Code of Zoological Nomenclature](https://www.iczn.org/).
+*Codex Mutabilis* is a journal for publishing short notes on mandatory changes to species names according to the [International Code of Zoological Nomenclature](https://www.iczn.org/).
 
 ## Submission
 
