@@ -16,3 +16,5 @@ The current editorial team is:
 * [Jessamyn West](https://en.wikipedia.org/wiki/Jessamyn_West_(librarian)).
 
 Other people interested in becoming editors should apply by sending an email to richard@codexmutabilis.com.
+
+This journal is published in New Zealand. It is archived at the [Internet Archive](https://archive.org/), and discussions are underway to archive it at Te Herenga Waka Victoria University of Wellington.
