@@ -8,7 +8,7 @@ permalink: /about/
 
 ## ICZN Formality
 
-The ICZN has not recognized this as a formal place of publication. It will not, until there is an ISSN attached to this journal, and until a formal application is submitted to the ICZN. For now, all posts are not to be considered as published acts.
+The ICZN has not recognized this as a formal place of publication. A formal application is being submitted to the ICZN. For now, all posts are not to be considered as published acts.
 
 ## Submission
 
@@ -28,7 +28,7 @@ For all intents and purposes, this journal is published in Aotearoa New Zealand.
 
 All posts will need to be assigned DOIs, which will function as permanent identifiers. As well, it would be worth publishing a PDF of each of the posts - although this is not strictly necessary. Another option is to assign version numbers to each post, and to upload them automatically to Zenodo.
 
-None of this is strictly necessary for an ISSN or for ICZN, but it would be best practice. Work will be tracked in [the GitHub repository's issue tracker](https://github.com/RichardLitt/codexmutabilis.com/issues).
+Work will be tracked in [the GitHub repository's issue tracker](https://github.com/RichardLitt/codexmutabilis.com/issues).
 
 ## Team
 
