@@ -36,8 +36,8 @@ task :post do
     post.puts "tags: []"
     post.puts "date: #{date_time}"
     post.puts "public: true"
+    post.puts "author: Richard Littauer # Change this line as soon as there is another author."
     post.puts "---"
-    post.puts "{% include JB/setup %}"
   end
 end # task :post
 
