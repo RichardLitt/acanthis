@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prunum boreale (A. E. Verrill, 1884) is changed to P. borealis (A. E. Verrill, 1884)"
+title: "Prunum boreale (A. E. Verrill, 1884) is changed to P. borealis"
 description: "Changing a species for grammatical agreement"
 category: substantive
 tags: [substantive, change]
