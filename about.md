@@ -10,7 +10,7 @@ permalink: /about/
 
 Unlike other publishing avenues, this website is by default currently *not* peer-reviewed. It is, however, indexed.
 
-In order to submit, send a pull request to [the GitHub repo](https://github.com/RichardLitt/codex-mutabilis/) with a post included. Interested authors can also [send an email](mailto:richard@codexmutabilis.com) with the text of their suggested changes to the main editor. All suggestions on how to improve this process would be welcome.
+In order to submit, send a pull request to [the GitHub repo](https://github.com/RichardLitt/codex-mutabilis/) with a post included. Interested authors can also [send an email](mailto:editors@codexmutabilis.com) with the text of their suggested changes to the main editor. All suggestions on how to improve this process would be welcome.
 
 ## Archival
 
@@ -27,4 +27,4 @@ The current editorial team is:
 * [Richard Littauer](https://burntfen.com). Editor-in-chief.
 * [Jessamyn West](https://en.wikipedia.org/wiki/Jessamyn_West_(librarian)). Librarian.
 
-Other people interested in becoming editors should apply by sending an email to richard@codexmutabilis.com.
+Other people interested in becoming editors should apply by sending an email to [editors@codexmutabilis.com](mailto:editors@codexmutabilis.com).
