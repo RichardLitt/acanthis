@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Codex Mutabilis
-#email: "Editor: richard.littauer@gmail.com"
+email: editors@codexmutabilis.com
 description: >- # this means to ignore newlines until "baseurl:"
   A website for publishing changes according to the ICZN code
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +31,8 @@ url: "https://codexmutabilis.com"
 theme: minima
 plugins:
   - jekyll-feed
+
+copyright: © 2024. All rights reserved.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
