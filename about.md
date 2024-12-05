@@ -12,7 +12,7 @@ The ICZN has not recognized this as a formal place of publication. It will not, 
 
 ## Submission
 
-Unlike other publishing avenues, this website is by default currently *not* peer-reviewed. It is, however, indexed.
+Unlike other publishing avenues, this journal is by default currently *not* peer-reviewed. It is, however, indexed.
 
 In order to submit, send a pull request to [the GitHub repo](https://github.com/RichardLitt/codexmutabilis.com/) with a post included. Interested authors can also [send an email](mailto:editors@codexmutabilis.com) with the text of their suggested changes to the main editor. All suggestions on how to improve this process would be welcome.
 

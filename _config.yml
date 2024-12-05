@@ -21,7 +21,7 @@
 title: Codex Mutabilis
 email: editors@codexmutabilis.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A website for publishing changes according to the ICZN code
+  A journal for publishing changes according to the ICZN code
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codexmutabilis.com"
 #twitter_username: jekyllrb
