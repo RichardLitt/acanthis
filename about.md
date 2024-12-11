@@ -8,7 +8,7 @@ permalink: /about/
 
 ## ICZN Formality
 
-The ICZN has not recognized this as a formal place of publication. A formal application is being submitted to the ICZN. For now, all posts are not to be considered as published acts.
+All posts are to be considered as published acts, when they are also included in Zoobank. After a post is published, it is then submitted to Zoobank, and the URI is added at the bottom of the post. If the URI is not at the bottom of the post, it is not to be considered a published act.
 
 ## Submission
 
@@ -18,11 +18,9 @@ In order to submit, send a pull request to [the GitHub repo](https://github.com/
 
 ## Archival
 
-This site is intended to be a permanent record. All archives of this site will be made available through Archive.org. Discussions are underway to archive it at Te Herenga Waka Victoria University of Wellington.
+This site is intended to be a permanent record. All archives of this site will be made available through archive.org, and all posts are archived by the National Libray of New Zealand.
 
-This site is not affiliated with any company, organization, product, or institution. It is not an advertisement website. It is not a personal blog.
-
-For all intents and purposes, this journal is published in Aotearoa New Zealand.
+This site is not affiliated with any company, organization, product, or institution. It is not an advertisement website. It is not a personal blog. For all intents and purposes, this journal is published in Aotearoa New Zealand.
 
 ### DOIs
 
