@@ -20,3 +20,7 @@ Links:
 ## References
 
 - Verrill A. E. (1884). Second catalogue of mollusca recently added to the fauna of the New England Coast and the adjacent parts of the Atlantic, consisting mostly of deep sea species, with notes on others previously recorded. Transactions of the Connecticut Academy of Arts and Sciences, 6(1): 139-294, pl. 28-32, available online at http://biodiversitylibrary.org/page/7477234
+
+## Registration
+
+This work was registered in Zoobank. urn:lsid:zoobank.org:pub:349E1926-5541-478B-98B4-CC2885648C2E
